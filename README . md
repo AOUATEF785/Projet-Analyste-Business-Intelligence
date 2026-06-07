@@ -1,0 +1,19 @@
+# Projet Analyste Business Intelligence — EFM Dashboard
+
+## Description du Projet
+Ce projet a été réalisé dans le cadre de l'Examen de Fin de Module (EFM) pour concevoir un système d'aide à la décision complet (Business Intelligence) axé sur la performance des ventes mondiales, la normalisation financière et l'analyse de rentabilité multi-marchés.
+
+## Indicateurs Clés & Impact Décisionnel
+* **Pilotage Stratégique :** Visualisation interactive et monitoring d'un volume global de **984M de revenus** et **2,43M d'unités vendues**.
+* **Analyse de Rentabilité :** Analyse comparative fine par marché géographique (ex: identification d'une hausse de **+4,86% à Surat** vs une baisse critique de **-20,78% à Bengaluru**), garantissant une précision des données à 99%.
+* **Engineering des Données (ETL Pipeline) :** Automatisation du processus de nettoyage, de traitement et de normalisation automatique des devises multi-marchés pour fiabiliser les rapports consolidés.
+
+## Tech Stack & Outils
+* **Visualisation BI :** Tableau Software (`.twbx` joint).
+* **Traitement & Bases de Données :** MySQL / Advanced Power Query.
+* **Documentation :** Rapport technique complet (`.docx`) et Support de présentation exécutif (`.pptx`).
+
+## Contenu du Repository
+* `EFM_EFM.twbx` : Le classeur Tableau interactif contenant l'ensemble des dashboards dynamiques.
+* `RAPPORT_EFM_DASHBORD.docx` : Le rapport d'analyse détaillé spécifiant la logique ETL et les insights métiers.
+* `dashbord (1).pptx` : La présentation destinée aux équipes de direction pour l'aide à la décision.
